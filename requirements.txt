@@ -1,1 +1,4 @@
-fastapi
+fastapi==0.88.0
+pandas==1.5.2
+openpyxl==3.0.10
+geocoder==1.38.1
